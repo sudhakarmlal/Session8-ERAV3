@@ -1,4 +1,4 @@
-# Session 9
+# Session 8
 
 # Advanced Concepts, Data Augmentation & Visualizations
 
