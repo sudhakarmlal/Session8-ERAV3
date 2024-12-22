@@ -10,8 +10,6 @@
 
 <br>
 
-# Task
-
 Write a new network that
 1. has the architecture to C1C2C3C40 (No MaxPooling, but 3 convolutions, where the last one has a stride of 2 instead) (If you can figure out how to use Dilated kernels here instead of MP or strided convolution, then 200pts extra!)
 2. total RF must be more than 44
